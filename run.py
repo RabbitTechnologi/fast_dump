@@ -1,2 +1,2 @@
 import dump
-dump.lisen_key()
+dump.lisen_ku()
