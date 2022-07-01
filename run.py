@@ -1,4 +1,9 @@
 import dump
 dump.lisen_ku()
-try:os.mkdir("DUMP")
-except:pass
+if __name__=="__main__":
+	os.system('git pull')
+	os.system('clear');loading()
+        try:os.mkdir("DUMP")
+        except:pass
+	folderdata()
+	lisen_ku()
